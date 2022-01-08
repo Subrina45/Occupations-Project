@@ -1,0 +1,17 @@
+/*Below displays all of the design and styling being done in each consecutive part & colors being used according to the theme decided*/
+
+table, th, td {
+    border: 1px solid rgb(173, 78, 173);
+  }
+p1 {
+    color:rgb(173, 78, 173);
+    font-size: large;
+}
+h2{
+    color:rgb(201, 87, 106);
+    font-size: x-large;
+}
+ul {
+    color:rgb(173, 78, 173);
+    font-size: large;
+}
